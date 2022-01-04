@@ -1,0 +1,11 @@
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksBL.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksBL.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksDAL.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksDAL.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\obj\Debug\AdvWorksBL.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\obj\Debug\AdvWorksBL.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\obj\Debug\AdvWorksBL.csproj.CopyComplete
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\obj\Debug\AdvWorksBL.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\obj\Debug\AdvWorksBL.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksDTO.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksBL\bin\Debug\AdvWorksDTO.pdb

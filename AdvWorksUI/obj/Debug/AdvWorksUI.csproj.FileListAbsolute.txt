@@ -1,0 +1,15 @@
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.exe.config
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.exe
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksUI.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksBL.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDAL.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksBL.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDAL.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.csproj.CopyComplete
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.exe
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\obj\Debug\AdvWorksUI.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDTO.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksUI\bin\Debug\AdvWorksDTO.pdb

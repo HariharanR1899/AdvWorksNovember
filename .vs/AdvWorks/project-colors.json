@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51b9ea8d-c1a6-446a-9655-f3213ce60427": {
+      "ProjectGuid": "51b9ea8d-c1a6-446a-9655-f3213ce60427",
+      "DisplayName": "AdvWorksUI",
+      "ColorIndex": 0
+    },
+    "9358a004-2726-4e89-8ac7-92ae574683e3": {
+      "ProjectGuid": "9358a004-2726-4e89-8ac7-92ae574683e3",
+      "DisplayName": "AdvWorksDAL",
+      "ColorIndex": 1
+    },
+    "690651e1-26e2-4aa7-9156-ac9ba212372f": {
+      "ProjectGuid": "690651e1-26e2-4aa7-9156-ac9ba212372f",
+      "DisplayName": "AdvWorksBL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

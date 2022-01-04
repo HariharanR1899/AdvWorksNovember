@@ -1,0 +1,6 @@
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\bin\Debug\AdvWorksDTO.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\bin\Debug\AdvWorksDTO.pdb
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.csproj.AssemblyReference.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.csproj.CoreCompileInputs.cache
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.dll
+C:\Users\40013016\Desktop\NovemberGENESIS\DDALADONETEF\Day 1\AdvWorks\AdvWorksDTO\obj\Debug\AdvWorksDTO.pdb
